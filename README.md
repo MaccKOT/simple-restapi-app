@@ -7,3 +7,6 @@ To start development server:
 ```bash
 npm run dev
 ```
+
+Use [Thunder Client](https://www.thunderclient.com/) for quick API test:
+GET http://localhost:3000/api/users/
